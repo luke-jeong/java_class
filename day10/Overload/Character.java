@@ -1,4 +1,4 @@
-package day10;
+package day10.Overload;
 
 public class Character {
     private String job;
